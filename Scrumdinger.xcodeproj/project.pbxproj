@@ -17,6 +17,7 @@
 		048597252804D7D6008CA239 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048597242804D7D6008CA239 /* TrailingIconLabelStyle.swift */; };
 		0485972728056CBE008CA239 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0485972628056CBE008CA239 /* ScrumsView.swift */; };
 		0485972928071C51008CA239 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0485972828071C51008CA239 /* DetailView.swift */; };
+		0485972B28072CF9008CA239 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0485972A28072CF9008CA239 /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		048597242804D7D6008CA239 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		0485972628056CBE008CA239 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		0485972828071C51008CA239 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		0485972A28072CF9008CA239 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				048597152804C4D1008CA239 /* Preview Content */,
 				048597242804D7D6008CA239 /* TrailingIconLabelStyle.swift */,
 				0485972828071C51008CA239 /* DetailView.swift */,
+				0485972A28072CF9008CA239 /* DetailEditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				048597212804CFD5008CA239 /* DailyScrum.swift in Sources */,
 				0485972928071C51008CA239 /* DetailView.swift in Sources */,
+				0485972B28072CF9008CA239 /* DetailEditView.swift in Sources */,
 				048597252804D7D6008CA239 /* TrailingIconLabelStyle.swift in Sources */,
 				048597122804C4CF008CA239 /* MeetingView.swift in Sources */,
 				0485972728056CBE008CA239 /* ScrumsView.swift in Sources */,
